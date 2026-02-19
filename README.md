@@ -4,13 +4,11 @@ All core logic, AI behaviour and storage features are unit tested to ensure reli
 
 # Run Instructions
 
-To run the app:
-
-# Get Dependencies
+## Get Dependencies
 
 flutter pub get
 
-# Run the App
+## Run the App
 
 flutter run -d chrome
 
